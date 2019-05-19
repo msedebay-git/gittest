@@ -1,3 +1,3 @@
 Hi git, how useful is git in the devops world? Git allows you to make changes efficiently and acurately without causing any delay in the producton environment.  
-There has been some changes in the comporate deficit expansion as a result of that,
+There has been some changes in the comporate deficit expansion because of that no profit,
 
